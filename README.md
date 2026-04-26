@@ -1,5 +1,7 @@
 # Data Jobs Salary Dashboard
 
+---
+
 > An interactive Excel dashboard helping data professionals and job seekers benchmark compensation across roles, countries, and employment types - built on real 2023 job market data.
 
 ![Interactive Excel dashboard showing salary data by job title, country, and schedule type](images/dashboard_preview.png)
